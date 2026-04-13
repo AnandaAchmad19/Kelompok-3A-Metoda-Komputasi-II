@@ -10,8 +10,8 @@ Mengembangkan pemikiran sistematis dalam pemecahan masalah ilmiah,
 
 Ruang Lingkup \
 Pemodelan numerik \
-Analisis data \ 
-Visualisasi hasil \
+Analisis data \\ 
+Visualisasi hasil \\
 
 Tools dan Library \
 Python 3.x
