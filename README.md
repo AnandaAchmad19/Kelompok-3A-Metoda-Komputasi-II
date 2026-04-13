@@ -9,9 +9,9 @@ Menganalisis dan menginterpretasikan hasil komputasi
 Mengembangkan pemikiran sistematis dalam pemecahan masalah ilmiah
 
 Ruang Lingkup \
-Pemodelan numerik
-Analisis data
-Visualisasi hasil
+Pemodelan numerik \
+Analisis data \ 
+Visualisasi hasil \
 
 Tools dan Library \
 Python 3.x
