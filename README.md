@@ -11,7 +11,7 @@ Mengembangkan pemikiran sistematis dalam pemecahan masalah ilmiah,
 Ruang Lingkup \
 Pemodelan numerik \
 Analisis data\
-Visualisasi hasil\\
+Visualisasi hasil
 
 Tools dan Library \
 Python 3.x
